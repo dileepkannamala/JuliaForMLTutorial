@@ -1,0 +1,10 @@
+┌ Info: 2026-01-12 23:32:48 Watching ["E:\\TharangClass\\GenieWeb"]
+└ @ GenieAutoReload E:\JuliaDepot\packages\GenieAutoReload\qpImd\src\GenieAutoReload.jl:19
+┌ Info: 2026-01-12 23:32:49 Autoreloading
+└ @ GenieAutoReload E:\JuliaDepot\packages\GenieAutoReload\qpImd\src\GenieAutoReload.jl:22
+┌ Info: 2026-01-12 23:33:03 Web Server starting at http://127.0.0.1:8000 
+└ @ Genie.Server E:\JuliaDepot\packages\Genie\G0LAe\src\Server.jl:194
+┌ Info: 2026-01-12 23:33:03 Listening on: 127.0.0.1:8000, thread id: 1
+└ @ HTTP.Servers E:\JuliaDepot\packages\HTTP\ShTJs\src\Servers.jl:382
+┌ Info: 2026-01-12 23:34:20 Calling finalizers
+└ @ Stipple E:\JuliaDepot\packages\Stipple\PPPFX\src\Stipple.jl:538

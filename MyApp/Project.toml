@@ -1,0 +1,4 @@
+name = "MyApp"
+uuid = "48266399-848f-4355-8912-d096bfac107c"
+version = "0.1.0"
+authors = ["= <=>"]
